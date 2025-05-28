@@ -16,9 +16,6 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![](https://nirzak-streak-stats.vercel.app/?user=meshal10613&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meshal10613&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meshal10613&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
