@@ -1,5 +1,7 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Frontend Developer<br>🌱 I’m currently learning Backend and MongoDB<br>💬 Ask me about Frontend<br>⚡ Fun fact I'm a billionaire 
+Hello, I’m Meshal, My core skill is based on javaScript
+and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
+for learning & implementing new web technologies and standards. I’m currently learning Node and Next JS.
 
 
 ## 🌐 Socials:
