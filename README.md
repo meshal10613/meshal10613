@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/meshal10613)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshal10613&label=Profile%20views&color=0e75b6&style=flat" alt="meshal10613" /> </p>
 
-<img align="right" width="400" scr="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" />
+<img align="right" width="400" scr="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently learning **Node JS & Next JS**
 
