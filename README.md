@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/meshal10613)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshal10613&label=Profile%20views&color=0e75b6&style=flat" alt="meshal10613" /> </p>
 
-<img align="right" alt="Coding" scr="https://www.bing.com/images/search?view=detailV2&ccid=Gfe1Gvt2&id=3C41A77F601E369EE37D9426E25816044751FBE5&thid=OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa&mediaurl=https%3a%2f%2fassets-v2.lottiefiles.com%2fa%2ff62481a4-1172-11ee-aa7c-232f008dfb14%2fSl4fTVnhQL.gif" />
+<img align="right" alt="Coding" scr="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" />
 
 - 🌱 I’m currently learning **Node JS & Next JS**
 
