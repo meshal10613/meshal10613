@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **syedmohiuddinmeshal24@gmail.com**
 
-- ⚡ Fun fact **A group of flamingos is called a "flamboyance."**
+- ⚡ Fun fact <!-- **A group of flamingos is called a "flamboyance."** --> **September 21, 1945. That was the night I died**
 
 # 💫 About Me:
 Hello, I’m Meshal, My core skill is based on javaScript
