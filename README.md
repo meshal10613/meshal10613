@@ -1,5 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshal10613&label=Profile%20views&color=0e75b6&style=flat" alt="meshal10613" /> </p>
 
+- 🌱 I’m currently learning **Node JS & Next JS**
+
+- 💬 Ask me about **JavaScript & React**
+
+- 📫 How to reach me **syedmohiuddinmeshal24@gmail.com**
+
+- ⚡ Fun fact **A group of flamingos is called a "flamboyance."**
+
 # 💫 About Me:
 Hello, I’m Meshal, My core skill is based on javaScript
 and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
