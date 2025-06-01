@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/meshal10613)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshal10613&label=Profile%20views&color=0e75b6&style=flat" alt="meshal10613" /> </p>
 
-<img align="right" alt="Coding" scr="https://www.bing.com/images/search?view=detailV2&ccid=Gfe1Gvt2&id=3C41A77F601E369EE37D9426E25816044751FBE5&thid=OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa&mediaurl=https%3a%2f%2fassets-v2.lottiefiles.com%2fa%2ff62481a4-1172-11ee-aa7c-232f008dfb14%2fSl4fTVnhQL.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.19f7b51afb76beed639e211524f9b743%3frik%3d5ftRRwQWWOImlA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=Coding+GIF+Image+for+GitHub&simid=608054086169282278&FORM=IRPRST&ck=8EDF670A53F7CE247EA606AD2AE6AAEA&selectedIndex=33&itb=0" />
+<img align="right" alt="Coding" scr="https://www.bing.com/images/search?view=detailV2&ccid=Gfe1Gvt2&id=3C41A77F601E369EE37D9426E25816044751FBE5&thid=OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa&mediaurl=https%3a%2f%2fassets-v2.lottiefiles.com%2fa%2ff62481a4-1172-11ee-aa7c-232f008dfb14%2fSl4fTVnhQL.gif" />
 
 - 🌱 I’m currently learning **Node JS & Next JS**
 
