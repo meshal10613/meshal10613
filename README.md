@@ -33,7 +33,9 @@ for learning & implementing new web technologies and standards. I’m currently 
 ###
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=meshal10613&icon=3&color=1)](https://visitcount.itsvg.in)
