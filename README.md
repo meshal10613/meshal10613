@@ -5,6 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshal10613&label=Profile%20views&color=0e75b6&style=flat" alt="meshal10613" /> </p>
 
+<!--<div align="center">
+  <img src="https://profile-counter.glitch.me/meshal10613/count.svg?"  />
+</div> -->
+
+
+###
+
 - 🌱 I’m currently learning **Node JS & Next JS**
 
 - 💬 Ask me about **JavaScript & React**
