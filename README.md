@@ -51,6 +51,5 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 <img src="https://raw.githubusercontent.com/meshal10613/meshal10613/output/snake.svg" alt="Snake animation" />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/meshal10613/svg/avgupta456/langs)](https://githubtrends.io)
 
 ###
