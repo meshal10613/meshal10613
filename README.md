@@ -33,8 +33,11 @@ for learning & implementing new web technologies and standards. I’m currently 
 ###
 
 ### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </div>
 
 ---
