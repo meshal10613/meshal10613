@@ -9,16 +9,11 @@
   <img src="https://profile-counter.glitch.me/meshal10613/count.svg?"  />
 </div> -->
 
-<!-- <p align="center">
-  <a href="https://github.com/meshal10613">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Syed Mohiuddin Meshal" /></a>
-</p> -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
+  <p align="center">
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;1%2B+years+of+coding+experience+;Front-end+web+developer" alt="Typing SVG" />
-  </a>
-</div>
+  </p>
+
 
 ###
 
