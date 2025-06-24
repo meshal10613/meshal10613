@@ -22,7 +22,7 @@
 
 # 💫 About Me:
 Hello, I’m Meshal. My core skill is based on JavaScript
-and I love to do most of the things with JavaScript.I am Skilled At MERN Stack. I have a strong passion
+and I love to do most of the things with JavaScript. I am Skilled At MERN Stack. I have a strong passion
 for learning & implementing new web technologies and standards. I’m currently learning Node and Next JS.
 
 
