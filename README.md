@@ -21,8 +21,8 @@
 - ⚡ Fun fact **A group of flamingos is called a "flamboyance."** <!-- **September 21, 1945. That was the night I died** --> 
 
 # 💫 About Me:
-Hello, I’m Meshal, My core skill is based on javaScript
-and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
+Hello, I’m Meshal. My core skill is based on JavaScript
+and I love to do most of the things with JavaScript.I am Skilled At MERN Stack. I have a strong passion
 for learning & implementing new web technologies and standards. I’m currently learning Node and Next JS.
 
 
