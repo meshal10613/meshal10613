@@ -11,7 +11,7 @@
 
   <p align="center">
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;1%2B+years+of+coding+experience+;Front-end+web+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;1%2B+years+of+coding+experience+;MERN+stack+web+developer" alt="Typing SVG" />
   </p>
 
 
