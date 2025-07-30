@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **JavaScript & React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **syedmohiuddinmeshal24@gmail.com**
 
