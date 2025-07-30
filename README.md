@@ -17,7 +17,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Node JS & Next JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **JavaScript & React**
 
