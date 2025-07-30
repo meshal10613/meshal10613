@@ -26,11 +26,8 @@
 - ⚡ Fun fact **A group of flamingos is called a "flamboyance."** <!-- **September 21, 1945. That was the night I died** --> 
 
 # 💫 About Me:
-Hello, I’m Meshal. My core skill is based on JavaScript
-and I love to do most of the things with JavaScript. I am Skilled At MERN Stack. I have a strong passion
-for learning & implementing new web technologies and standards. I’m currently learning Node and Next JS.
-
-My goal is to bridge the gap between design and development with clean, scalable code. I strive to create intuitive user experiences by combining aesthetic design with robust functionality. With a strong focus on performance and maintainability, I’m always learning and adapting to build better solutions for real-world problems.
+Hello, I’m Meshal. My core skill is based on JavaScript and I love to do most of the things with JavaScript. I am Skilled At MERN Stack. I have a strong passion
+for learning & implementing new web technologies and standards. My goal is to bridge the gap between design and development with clean, scalable code. I strive to create intuitive user experiences by combining aesthetic design with robust functionality. With a strong focus on performance and maintainability, I’m always learning and adapting to build better solutions for real-world problems. I’m currently learning Next JS.
 
 
 ## 🌐 Socials:
