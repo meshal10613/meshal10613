@@ -17,7 +17,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MERN Stack**
 
