@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **syedmohiuddinmeshal24@gmail.com** or What's App **+880 1764447574**
 
-- ⚡ Fun fact **A group of flamingos is called a "flamboyance."** <!-- **September 21, 1945. That was the night I died** --> 
+- ⚡ Fun fact **A group of flamingos is called a "flamboyance."**
 
 ## 💫 About Me:
 Hello, I’m Meshal. My core skill is based on JavaScript and I love to do most of the things with JavaScript. I am Skilled At MERN Stack. I have a strong passion
