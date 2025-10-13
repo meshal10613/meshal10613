@@ -7,7 +7,7 @@
 
 <!--<div align="center">
   <img src="https://profile-counter.glitch.me/meshal10613/count.svg?"  />
-</div> -->
+</div> --> 
 
   <p align="center">
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
