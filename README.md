@@ -45,6 +45,8 @@ for learning & implementing new web technologies and standards. My goal is to br
 <!-- Others/ Tools -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,html,css,react,nodejs)](https://skillicons.dev)
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meshal10613&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="statsgraph" height="150" />
