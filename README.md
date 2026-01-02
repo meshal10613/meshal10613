@@ -76,12 +76,12 @@ for learning & implementing new web technologies and standards. My goal is to br
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 
 <img src="https://raw.githubusercontent.com/meshal10613/meshal10613/output/snake.svg" alt="Snake animation" />
-![Pacman animation](https://raw.githubusercontent.com/meshal10613/meshal10613/output/pacman.svg)
+<!-- ![Pacman animation](https://raw.githubusercontent.com/meshal10613/meshal10613/output/pacman.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meshal10613/meshal10613/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meshal10613/meshal10613/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meshal10613/meshal10613/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=102&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
