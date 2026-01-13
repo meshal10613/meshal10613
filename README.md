@@ -14,9 +14,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;1%2B+years+of+coding+experience+;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backed+Developer" alt="Typing SVG" />
   </p>
 
-
-
-
 ###
 
 - 🌱 I’m currently learning **TypeScript**
