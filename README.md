@@ -47,8 +47,10 @@ for learning & implementing new web technologies and standards. My goal is to br
 <!-- Others/ Tools -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3982CE?style=for-the-badge&logo=Zod&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-%23323330.svg?style=for-the-badge&logo=betterauth&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
-<!-- [![My Skills](https://skillicons.dev/icons?i=aws,html,css,tailwind,bootstrap,docker,express,figma,firebase,git,github,js,react,nodejs,mongodb,netlify,nextjs,nginx,postman,prisma,redux,sass,ts,vercel)](https://skillicons.dev) -->
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=aws,html,css,tailwind,bootstrap,docker,express,figma,firebase,git,github,js,react,nodejs,mongodb,netlify,nextjs,nginx,postman,prisma,redux,sass,ts,vercel)](https://skillicons.dev) -->
+
+
 
 ## 📊 GitHub Stats:
 <div align="center">
