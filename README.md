@@ -58,6 +58,9 @@ for learning & implementing new web technologies and standards. My goal is to br
   <img src="https://nirzak-streak-stats.vercel.app/?user=meshal10613&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meshal10613&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meshal10613&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
 
 ###
 
