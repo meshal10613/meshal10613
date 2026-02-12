@@ -15,7 +15,6 @@
   </p>
 
 ###
-
 - 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **MERN Stack**
