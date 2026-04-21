@@ -51,14 +51,15 @@ for learning & implementing new web technologies and standards. My goal is to br
 
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meshal10613&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="statsgraph" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=meshal10613&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meshal10613&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meshal10613&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meshal10613&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Meshal's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshal10613&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshal10613&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meshal10613&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ###
 
