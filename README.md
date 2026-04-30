@@ -32,7 +32,7 @@ for learning & implementing new web technologies and standards. My goal is to br
 
 
 <!--## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meshal.67) <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedmohiuddinmeshal) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10613-meshal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmohiuddinmeshal24@gmail.com) -->
+<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meshal.67) <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedmohiuddinmeshal) --> <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10613-meshal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmohiuddinmeshal24@gmail.com) -->
 
 ## 💻 Tech Stack:
 <!-- Frontend -->
@@ -53,7 +53,7 @@ for learning & implementing new web technologies and standards. My goal is to br
 [![My Skills](https://skillicons.dev/icons?i=aws,html,css,tailwind,bootstrap,docker,express,figma,firebase,git,github,js,react,nodejs,mongodb,netlify,nextjs,nginx,postman,prisma,redux,sass,ts,vercel)](https://skillicons.dev) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 <b>🧠 Languages</b><br/><br/>
-<img src="https://thesvg.org/icons/javascript/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/typescript/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/python/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/c/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/cplusplus/default.svg" width="40"/>
+<img src="https://thesvg.org/icons/javascript/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/typescript/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/python/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/c/default.svg" width="40" hspace="10"/><!--<img src="https://thesvg.org/icons/cplusplus/default.svg" width="40"/>-->
 
 <b>🎨 Frontend</b><br/><br/>
 <img src="https://thesvg.org/icons/css/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/tailwind-css/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/shadcn-ui/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/react/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/nextdotjs/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/redux/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/motion/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/gsap/default.svg" width="40" hspace="10"/><img src="https://thesvg.org/icons/axios/default.svg" width="40"/>
