@@ -31,8 +31,8 @@ Hello, I’m Syed Mohiuddin Meshal. My core skill is based on JavaScript and I l
 for learning & implementing new web technologies and standards. My goal is to bridge the gap between design and development with clean, scalable code. I strive to create intuitive user experiences by combining aesthetic design with robust functionality. With a strong focus on performance and maintainability, I’m always learning and adapting to build better solutions for real-world problems.
 
 
-## 🌐 Socials:
-<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meshal.67) <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedmohiuddinmeshal) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10613-meshal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmohiuddinmeshal24@gmail.com) 
+<!--## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meshal.67) <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedmohiuddinmeshal) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10613-meshal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmohiuddinmeshal24@gmail.com) -->
 
 ## 💻 Tech Stack:
 <!-- Frontend -->
