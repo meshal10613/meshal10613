@@ -1,5 +1,4 @@
-
-<!-- <img width="100%" src="https://raw.githubusercontent.com/meshal10613/meshal10613/main/banner.jpg" alt="cover" /> -->
+<img width="100%" src="https://raw.githubusercontent.com/meshal10613/meshal10613/main/banner.jpg" alt="cover" />
 
 <img align="right" width="55%" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <!-- https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg -->
