@@ -1,6 +1,6 @@
 <!-- <img width="100%" src="https://raw.githubusercontent.com/meshal10613/meshal10613/main/banner.jpg" alt="cover" /> -->
 
-<img align="right" width="55%" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<!--<img align="right" width="55%" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
 <!-- https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />More actions -->
 
@@ -58,169 +58,21 @@ for learning & implementing new web technologies and standards. My goal is to br
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 [![My Skills](https://skillicons.dev/icons?i=aws,html,css,tailwind,bootstrap,docker,express,figma,firebase,git,github,js,react,nodejs,mongodb,netlify,nextjs,nginx,postman,prisma,redux,sass,ts,vercel)](https://skillicons.dev) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
-<!-- ## 🛠️ Tech Stack
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=meshal10613&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=meshal10613&theme=dark&hide_border=false" height="170" />
+</p>
 
-<div align="left">
-  <a href="#"><img src="https://thesvg.org/icons/javascript/default.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://thesvg.org/icons/typescript/default.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://thesvg.org/icons/python/default.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://thesvg.org/icons/go/default.svg" width="40" height="40" /></a>
-</div>
- 
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/javascript/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/typescript/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/python/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/go/default.svg" width="40" height="40"/></a>
-    </td>
-       <!--  <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/dart/default.svg" width="40" height="40"/></a>
-    </td>
-     <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/c/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/cplusplus/default.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/html5/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/css/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/tailwind-css/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/shadcn-ui/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/react/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/nextdotjs/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/redux/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/motion/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/gsap/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/axios/default.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/nodedotjs/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/expressdotjs/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/nestjs/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/graphql/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/jwt/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/better-auth/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/zod/default.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/mongodb/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/mongoose/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/prisma/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/postgresql/default.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/git/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/github/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/postman/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/netlify/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/vercel/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/firebase/default.svg" width="40" height="40"/></a>
-    </td>
-    <td align="center" width="80">
-      <a href="" target="_blank"><img src="https://thesvg.org/icons/stripe/default.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-</table> -->
-
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=meshal10613&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meshal10613&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ###
----
 [![](https://visitcount.itsvg.in/api?id=meshal10613&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- ##  💰 You can help me by Donating
