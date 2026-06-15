@@ -12,21 +12,24 @@
 
 <p align="center">
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;1%2B+years+of+coding+experience+;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;2%2B+years+of+coding+experience+;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
   </p>
 
-###
+<!-- ###
 - 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **syedmohiuddinmeshal24@gmail.com** or What's App **+880 1764447574**
 
-- ⚡ Fun fact **A group of flamingos is called a "flamboyance."**
+- ⚡ Fun fact **A group of flamingos is called a "flamboyance."** -->
 
 ## 💫 About Me:
-Hello, I’m Syed Mohiuddin Meshal. My core skill is based on JavaScript and I love to do most of the things with JavaScript. I am Skilled At MERN Stack. I have a strong passion
-for learning & implementing new web technologies and standards. My goal is to bridge the gap between design and development with clean, scalable code. I strive to create intuitive user experiences by combining aesthetic design with robust functionality. With a strong focus on performance and maintainability, I’m always learning and adapting to build better solutions for real-world problems.
+Hello, I'm Syed Mohiuddin Meshal, a passionate Full-Stack Developer specializing in the MERN Stack. I enjoy transforming ideas into scalable, user-friendly web applications that solve real-world problems. My expertise includes JavaScript, React, Next.js, Node.js, Express.js, MongoDB, and modern web technologies, allowing me to build everything from responsive frontends to robust backend systems.
+
+I have a strong passion for continuous learning and love exploring new technologies, frameworks, and development practices. Whether it's designing intuitive user interfaces, developing secure APIs, or optimizing application performance, I focus on writing clean, maintainable, and efficient code.
+
+My goal is to bridge the gap between design and functionality by creating digital experiences that are both visually appealing and technically sound. I am committed to building high-quality software that delivers real value while constantly improving my skills as a developer and problem solver.
 
 
 <!-- ## 🌐 Socials:
@@ -45,11 +48,11 @@ for learning & implementing new web technologies and standards. My goal is to br
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge&logo=shadcn/ui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![chakraui](https://img.shields.io/badge/-chakraui-%230170FE?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 <!-- Backend -->
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
 
 
 <!-- Database -->
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongoose&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongoose&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Gorm](https://img.shields.io/badge/Gorm-38B6FF?style=for-the-badge&logo=go&logoColor=white)
 
 
 <!-- Others/ Tools -->
