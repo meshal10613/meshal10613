@@ -1,4 +1,3 @@
-
 <!-- <img width="100%" src="https://raw.githubusercontent.com/meshal10613/meshal10613/main/banner.jpg" alt="cover" /> -->
 
 <!--<img align="right" width="55%" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
@@ -13,7 +12,7 @@
 
 <p align="center">
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;2%2B+years+of+coding+experience+;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;2%2B+years+of+coding+experience+;Full+Stack+Developer;" alt="Typing SVG" />
   </p>
 
 <!-- ###
