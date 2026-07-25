@@ -13,7 +13,14 @@
 <p align="center">
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&repeat=false&width=435&lines=Syed+Mohiuddin+Meshal" alt="Typing SVG" align="center"/> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;2%2B+years+of+coding+experience+;Full+Stack+Developer;" alt="Typing SVG" />
-  </p>
+</p>
+
+<table>
+ <tr>
+  <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Syed Mohiuddin Meshal — ASCII portrait" /></td>
+  <td valign="top"><img src="./info-card.svg" width="490" alt="Syed Mohiuddin Meshal — experience, stack, highlights" /></td>
+ </tr>
+</table>
 
 <!-- ###
 - 🌱 I’m currently learning **Nest JS**
