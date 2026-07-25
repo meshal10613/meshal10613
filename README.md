@@ -17,7 +17,7 @@
 
 <table>
  <tr>
-  <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Syed Mohiuddin Meshal — ASCII portrait" /></td>
+  <td valign="top"><img src="./meshal-ascii.svg" width="370" alt="Syed Mohiuddin Meshal — ASCII portrait" /></td>
   <td valign="top"><img src="./info-card.svg" width="490" alt="Syed Mohiuddin Meshal — experience, stack, highlights" /></td>
  </tr>
 </table>
