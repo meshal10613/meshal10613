@@ -168,5 +168,5 @@
 <rect y="818.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.720s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.720s"/><set attributeName="opacity" to="0" begin="5.830s"/></rect>
 <line x1="0" y1="834.0" x2="840" y2="834.0" stroke="#30363d"/>
 <text x="20" y="853.0" fill="#7d8590" font-size="13">meshal10613@github:~$ whoami <tspan fill="#c9d1d9">Syed Mohiuddin Meshal</tspan></text>
-<rect x="247" y="841.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="380" y="841.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
