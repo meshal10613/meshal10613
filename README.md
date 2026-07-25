@@ -76,13 +76,16 @@ My goal is to bridge the gap between design and functionality by creating digita
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=meshal10613&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
-</p>
+</p> -->
 
-<p align="center">
+
+<img src="https://raw.githubusercontent.com/meshal10613/meshal10613/output/snake.svg" alt="Snake animation" />
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meshal10613&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-###
+<!-- ###
 [![](https://visitcount.itsvg.in/api?id=meshal10613&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- ##  💰 You can help me by Donating
@@ -91,7 +94,6 @@ My goal is to bridge the gap between design and functionality by creating digita
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 
-<img src="https://raw.githubusercontent.com/meshal10613/meshal10613/output/snake.svg" alt="Snake animation" />
 
 <!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=102&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
