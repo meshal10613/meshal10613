@@ -27,7 +27,7 @@
 <g opacity="1" transform="translate(0,0)">
   <text x="20" y="193.2" fill="#ffa657" font-size="12.5" font-weight="700">Language</text>
   <text x="112" y="193.2" fill="#c9d1d9" font-size="12.5">
-    <tspan x="112" dy="0">C, C++, Python, JavaScript, TypeScript, Go, SQL</tspan>
+    <tspan x="112" dy="0">C, C++, Go, SQL, Python, JavaScript, TypeScript</tspan>
     <tspan x="112" dy="14"></tspan>
   </text>
   <animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/>
