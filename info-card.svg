@@ -36,7 +36,7 @@
  
 <g opacity="1" transform="translate(0,0)">
   <text x="20" y="213.7" fill="#ffa657" font-size="12.5" font-weight="700">Frontend</text>
-    <text x="112" y="213.7" fill="#c9d1d9" font-size="12.5"><tspan x="112" dy="0">React, Next.js, Redux</tspan>
+    <text x="112" y="213.7" fill="#c9d1d9" font-size="12.5"><tspan x="112" dy="0">HTML5, CSS3, Tailwind CSS, React, Next.js, Redux</tspan>
     <tspan x="112" dy="14"></tspan>
   </text>
   <animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.4s" fill="freeze"/>
